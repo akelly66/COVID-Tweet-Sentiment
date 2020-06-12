@@ -28,6 +28,7 @@ The following notebooks will demonstrate how I scraped tweets from the Twitter A
 * Python
 * Twitter API
 * Requests
+* NLTK
 
 ## Data & Notebook
 * <a href="https://github.com/akelly66/COVID-Tweet-Sentiment/tree/master/tweet-scraping">Sourcing Tweets</a>
