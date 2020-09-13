@@ -1,0 +1,47 @@
+# Generic imports
+
+pandas
+numpy as np
+matplotlib.pyplot
+datetime
+
+#Access to Twitter API
+
+requests
+searchtweets
+
+# To pause function to respect request limits
+time
+
+# Saving and importing previous next tokens
+pickle
+
+# Get JSON
+ast
+json
+
+# Text preprocessing libraries
+string
+contractions
+re
+nltk
+nltk.tokenize
+nltk.corpus
+nltk.stem.snowball
+nltk.stem
+nltk
+nltk.collocations
+
+# Exploratory data analysis libraries
+wordcloud
+
+# GloVE
+gensim.models
+
+# Modeling
+sklearn.ensemble
+sklearn.svm
+sklearn.linear_model
+sklearn.pipeline
+sklearn.model_selection
+sklearn.metrics

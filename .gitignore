@@ -128,4 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+text-processing/training_tweets.csv
 /training_tweets.csv
+/glove.6b.50d.txt
